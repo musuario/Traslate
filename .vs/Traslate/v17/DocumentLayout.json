@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\Traslate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E340835-F29B-4BBC-A8F3-5EA62A2DEBD8}|Traslate\\Traslate.csproj|c:\\users\\kevin\\source\\repos\\traslate\\traslate\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3E340835-F29B-4BBC-A8F3-5EA62A2DEBD8}|Traslate\\Traslate.csproj|solutionrelative:traslate\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E340835-F29B-4BBC-A8F3-5EA62A2DEBD8}|Traslate\\Traslate.csproj|c:\\users\\kevin\\source\\repos\\traslate\\traslate\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E340835-F29B-4BBC-A8F3-5EA62A2DEBD8}|Traslate\\Traslate.csproj|solutionrelative:traslate\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Traslate\\Traslate\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Traslate\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Traslate\\Traslate\\MainPage.xaml.cs",
+              "RelativeToolTip": "Traslate\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T21:48:57.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Traslate\\Traslate\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Traslate\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Traslate\\Traslate\\MainPage.xaml",
+              "RelativeToolTip": "Traslate\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-13T21:48:35.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
