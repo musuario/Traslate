@@ -1037,3 +1037,4 @@ C:\Users\kevin\source\repos\Traslate\Traslate\obj\Debug\net8.0-android\stamp\_Co
 C:\Users\kevin\source\repos\Traslate\Traslate\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\kevin\source\repos\Traslate\Traslate\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\kevin\source\repos\Traslate\Traslate\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\kevin\source\repos\Traslate\Traslate\obj\Debug\net8.0-android\Traslate.sourcelink.json

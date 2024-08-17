@@ -1,5 +1,6 @@
 ﻿using Microsoft.Maui.Controls;
 using System;
+using System.Linq;
 
 namespace Traslate
 {
@@ -18,7 +19,22 @@ namespace Traslate
             {
                 try
                 {
-                    await TextToSpeech.Default.SpeakAsync(text);
+                    var locales = await TextToSpeech.Default.GetLocalesAsync();
+                    var spanishLocale = locales.FirstOrDefault(locale => locale.Language == "es");
+
+                    if (spanishLocale != null)
+                    {
+                        var settings = new SpeechOptions
+                        {
+                            Locale = spanishLocale
+                        };
+
+                        await TextToSpeech.Default.SpeakAsync(text, settings);
+                    }
+                    else
+                    {
+                        await DisplayAlert("Error", "El dispositivo no soporta Text-to-Speech en español.", "OK");
+                    }
                 }
                 catch (Exception ex)
                 {
